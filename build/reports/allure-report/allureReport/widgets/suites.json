@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "c6743a0f6af864aab56e8c6a6ac58601",
+    "name" : "ru.netology.tests.PaymentUITests",
+    "statistic" : {
+      "failed" : 9,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 15
+    }
+  }, {
+    "uid" : "6f96674a70c895243c36c04d62ed637e",
+    "name" : "ru.netology.tests.CreditAPITests",
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "26ea4f315a781290504fae09d9e2e921",
+    "name" : "ru.netology.tests.PaymentAPITests",
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "c2ddfa7fd33fbe39186d27a0163d7959",
+    "name" : "ru.netology.tests.CreditUITests",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

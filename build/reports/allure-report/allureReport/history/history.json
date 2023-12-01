@@ -1,0 +1,652 @@
+{
+  "6227cebbe44c25cfc5a357f473e74b5f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a51dd72f34961edf",
+      "status" : "failed",
+      "statusDetails" : "expected: <1> but was: <0>",
+      "time" : {
+        "start" : 1701377097572,
+        "stop" : 1701377098450,
+        "duration" : 878
+      }
+    } ]
+  },
+  "c996ad3d803b64a0057d88d57eb59f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6847c23e045f0789",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701377178035,
+        "stop" : 1701377181435,
+        "duration" : 3400
+      }
+    } ]
+  },
+  "dce8885c5edf0fa3025579e57efd8876" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "34b5f04d2c64f261",
+      "status" : "failed",
+      "statusDetails" : "Element should have text \"Поле обязательно для заполнения\" {.input__sub}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: text=\"Неверный формат\"\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377114270.2.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377114270.2.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1701377107996,
+        "stop" : 1701377114594,
+        "duration" : 6598
+      }
+    } ]
+  },
+  "81751673551b29bb19d7d67268f2a3d5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d107e1df5287636",
+      "status" : "failed",
+      "statusDetails" : "expected: <1> but was: <0>",
+      "time" : {
+        "start" : 1701377050453,
+        "stop" : 1701377051310,
+        "duration" : 857
+      }
+    } ]
+  },
+  "f6458953d5f242c4acfb80ec29c73acd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d35127168e66cc98",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <400> but was <200>.\n",
+      "time" : {
+        "start" : 1701377051319,
+        "stop" : 1701377051615,
+        "duration" : 296
+      }
+    } ]
+  },
+  "8d60f0b60c5f9122c6e621254f174de3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c9afcfda3fbd7d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701377114603,
+        "stop" : 1701377116823,
+        "duration" : 2220
+      }
+    } ]
+  },
+  "ddf0378e7b28d0274cbc44e50b8040e9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a402083972c913a",
+      "status" : "failed",
+      "statusDetails" : "Element not found {.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377170814.8.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377170814.8.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1701377164596,
+        "stop" : 1701377171180,
+        "duration" : 6584
+      }
+    } ]
+  },
+  "18a483773ce4f38709b1c70a4c2508c7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a6d5e662fe83f02f",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <400> but was <200>.\n",
+      "time" : {
+        "start" : 1701377100218,
+        "stop" : 1701377100525,
+        "duration" : 307
+      }
+    } ]
+  },
+  "d86bd11b8dd81e01d7dfc57117a912d7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a17d4fed706db0c9",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <400> but was <200>.\n",
+      "time" : {
+        "start" : 1701377051623,
+        "stop" : 1701377051911,
+        "duration" : 288
+      }
+    } ]
+  },
+  "b8fc14b4acf6ae6c4f6180e567d869c7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a334c21e3b341810",
+      "status" : "failed",
+      "statusDetails" : "expected: <APPROVED> but was: <DECLINED>",
+      "time" : {
+        "start" : 1701377089752,
+        "stop" : 1701377095633,
+        "duration" : 5881
+      }
+    } ]
+  },
+  "114e561aebeb25bc1b9bd77b901f7b3e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "186fa94bf8508282",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <400> but was <200>.\n",
+      "time" : {
+        "start" : 1701377099917,
+        "stop" : 1701377100203,
+        "duration" : 286
+      }
+    } ]
+  },
+  "97fee8ebd2b1c6e90998de2ff595ffa8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee2a9e011e86b843",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701377181443,
+        "stop" : 1701377193741,
+        "duration" : 12298
+      }
+    } ]
+  },
+  "cdf480dd035f19fecd51e113600d4545" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "efd14d9f02e9c068",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701377116839,
+        "stop" : 1701377119168,
+        "duration" : 2329
+      }
+    } ]
+  },
+  "140a374467ef754a2f95fa1f57f8ee09" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ee4a3ecd35914d0",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <400> but was <200>.\n",
+      "time" : {
+        "start" : 1701377047300,
+        "stop" : 1701377047739,
+        "duration" : 439
+      }
+    } ]
+  },
+  "9b19723e1a87056a83c4cfad27d1b75e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "26775295ae8271fc",
+      "status" : "failed",
+      "statusDetails" : "Element should have text \"Поле обязательно для заполнения\" {.input__sub}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: text=\"Неверный формат\"\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377157573.6.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377157573.6.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1701377151421,
+        "stop" : 1701377157961,
+        "duration" : 6540
+      }
+    } ]
+  },
+  "f42d8b38464b277a26ddd51c42790b7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5fa56012d5bf0e5",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <400> but was <200>.\n",
+      "time" : {
+        "start" : 1701377098458,
+        "stop" : 1701377098764,
+        "duration" : 306
+      }
+    } ]
+  },
+  "5126f8765f2957e1bb72014acbff125f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f6fdfd47376826e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701377047758,
+        "stop" : 1701377048974,
+        "duration" : 1216
+      }
+    } ]
+  },
+  "3c89fdb5c907e75f7fd6c578ecb6838" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65c29dc8c456980c",
+      "status" : "failed",
+      "statusDetails" : "expected: <1> but was: <0>",
+      "time" : {
+        "start" : 1701377042048,
+        "stop" : 1701377046999,
+        "duration" : 4951
+      }
+    } ]
+  },
+  "25a0ae1ccf500b364081bcd5d3d64b4c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "48989480e4974fcd",
+      "status" : "failed",
+      "statusDetails" : "Element should visible {.notification_status_ok }\r\nElement: '<div class=\"notification notification_status_ok notification_has-closer notification_stick-to_right notification_theme_alfa-on-white\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377151098.5.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377151098.5.html\r\nTimeout: 15 s.",
+      "time" : {
+        "start" : 1701377134008,
+        "stop" : 1701377151409,
+        "duration" : 17401
+      }
+    } ]
+  },
+  "a9f8a637e970fbf101634aa351e089be" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad5b96c72ee01acd",
+      "status" : "failed",
+      "statusDetails" : "Element not found {.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377164152.7.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377164152.7.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1701377157974,
+        "stop" : 1701377164584,
+        "duration" : 6610
+      }
+    } ]
+  },
+  "9c94c908ff32665d3066c4c02ac20951" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b47601198dfd6e5",
+      "status" : "failed",
+      "statusDetails" : "expected: <1> but was: <0>",
+      "time" : {
+        "start" : 1701377100537,
+        "stop" : 1701377101406,
+        "duration" : 869
+      }
+    } ]
+  },
+  "1809dfcc6a2c0199408a67b0d150e34d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b1dc513656f5a71e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701377125400,
+        "stop" : 1701377127466,
+        "duration" : 2066
+      }
+    } ]
+  },
+  "6fd45c43f9bede0f819cfbef9217981" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "495c55c9a65df0f",
+      "status" : "failed",
+      "statusDetails" : "Element should visible {.notification_status_error}\r\nElement: '<div class=\"notification notification_status_error notification_has-closer notification_stick-to_right notification_theme_alfa-on-white\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377089261.0.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377089261.0.html\r\nTimeout: 15 s.",
+      "time" : {
+        "start" : 1701377051967,
+        "stop" : 1701377089731,
+        "duration" : 37764
+      }
+    } ]
+  },
+  "c956a8e4f6bdb3fcf90bc0b9d29199e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b8350109b793a680",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701377193752,
+        "stop" : 1701377205546,
+        "duration" : 11794
+      }
+    } ]
+  },
+  "f8d2cb0bb72ab4ee236cf9d2edb0ed18" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "771dfec4fe088c93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701377096105,
+        "stop" : 1701377097249,
+        "duration" : 1144
+      }
+    } ]
+  },
+  "ab6e65852ff277e186b8f680b00376f6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f280623ec902877",
+      "status" : "failed",
+      "statusDetails" : "Element not found {.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377107530.1.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377107530.1.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1701377101423,
+        "stop" : 1701377107980,
+        "duration" : 6557
+      }
+    } ]
+  },
+  "72a931f2a553e983aeca14844aed93d1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6f850bd914e9e98",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <400> but was <200>.\n",
+      "time" : {
+        "start" : 1701377048987,
+        "stop" : 1701377049283,
+        "duration" : 296
+      }
+    } ]
+  },
+  "dc7cde3308573fdd5191b8f443df6ac1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42eab4dbe6724fa2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701377049292,
+        "stop" : 1701377050445,
+        "duration" : 1153
+      }
+    } ]
+  },
+  "268ebd5043170ad82da85d0d92b6948b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f74ceb6b7f05cec",
+      "status" : "failed",
+      "statusDetails" : "Element not found {.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377177553.9.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377177553.9.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1701377171191,
+        "stop" : 1701377178017,
+        "duration" : 6826
+      }
+    } ]
+  },
+  "c5e1f8a1995771e29dc8711e3c67dbb2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24ae69665611a602",
+      "status" : "failed",
+      "statusDetails" : "Element should have text \"Поле обязательно для заполнения\" {by text: Номер карты/By.xpath: ../.input__sub}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: text=\"Неверный формат\"\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377125015.3.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377125015.3.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1701377119177,
+        "stop" : 1701377125390,
+        "duration" : 6213
+      }
+    } ]
+  },
+  "a29e0124dfd3c7db9c86300b353f98ee" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6342a2b5a3c1fa8b",
+      "status" : "failed",
+      "statusDetails" : "Element not found {.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377133654.4.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377133654.4.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1701377127475,
+        "stop" : 1701377133997,
+        "duration" : 6522
+      }
+    } ]
+  },
+  "ed69dd29ae2cb45b515b2e3e0ddaf7e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c3a030de07069341",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <400> but was <200>.\n",
+      "time" : {
+        "start" : 1701377097262,
+        "stop" : 1701377097566,
+        "duration" : 304
+      }
+    } ]
+  },
+  "39d3214e523d5fee6aa02bd7ad4e29bc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51b50f6ecea33d42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701377098777,
+        "stop" : 1701377099910,
+        "duration" : 1133
+      }
+    } ]
+  }
+}

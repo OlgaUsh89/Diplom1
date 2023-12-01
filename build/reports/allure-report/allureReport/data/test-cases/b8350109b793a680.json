@@ -1,0 +1,495 @@
+{
+  "uid" : "b8350109b793a680",
+  "name" : "shouldNumberField17char()",
+  "fullName" : "ru.netology.tests.PaymentUITests.shouldNumberField17char",
+  "historyId" : "c956a8e4f6bdb3fcf90bc0b9d29199e7",
+  "time" : {
+    "start" : 1701377193752,
+    "stop" : 1701377205546,
+    "duration" : 11794
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "$(\"h2.findBy(text \"Путешествие дня\")\") should be(visible)",
+      "time" : {
+        "start" : 1701377193895,
+        "stop" : 1701377193975,
+        "duration" : 80
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"button.findBy(text \"Купить\")\") should be(visible)",
+      "time" : {
+        "start" : 1701377193976,
+        "stop" : 1701377194048,
+        "duration" : 72
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"button.findBy(text \"Купить в кредит\")\") should be(visible)",
+      "time" : {
+        "start" : 1701377194048,
+        "stop" : 1701377194125,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"form\") should be(hidden)",
+      "time" : {
+        "start" : 1701377194125,
+        "stop" : 1701377194138,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\".notification_status_ok\") should be(hidden)",
+      "time" : {
+        "start" : 1701377194138,
+        "stop" : 1701377194149,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\".notification_status_error\") should be(hidden)",
+      "time" : {
+        "start" : 1701377194150,
+        "stop" : 1701377194165,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"button.findBy(text \"Купить\")\") click()",
+      "time" : {
+        "start" : 1701377194167,
+        "stop" : 1701377194323,
+        "duration" : 156
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"form\") should be(visible)",
+      "time" : {
+        "start" : 1701377194323,
+        "stop" : 1701377194358,
+        "duration" : 35
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"h3.findBy(text \"Оплата по карте\")\") should be(visible)",
+      "time" : {
+        "start" : 1701377194359,
+        "stop" : 1701377194556,
+        "duration" : 197
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: Номер карты/By.xpath: ../.input__control\") should be(visible)",
+      "time" : {
+        "start" : 1701377194556,
+        "stop" : 1701377194609,
+        "duration" : 53
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: Месяц/By.xpath: ../.input__control\") should be(visible)",
+      "time" : {
+        "start" : 1701377194609,
+        "stop" : 1701377194662,
+        "duration" : 53
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: Год/By.xpath: ../.input__control\") should be(visible)",
+      "time" : {
+        "start" : 1701377194662,
+        "stop" : 1701377194720,
+        "duration" : 58
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: Владелец/By.xpath: ../.input__control\") should be(visible)",
+      "time" : {
+        "start" : 1701377194720,
+        "stop" : 1701377194797,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: CVC/CVV/By.xpath: ../.input__control\") should be(visible)",
+      "time" : {
+        "start" : 1701377194797,
+        "stop" : 1701377194861,
+        "duration" : 64
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"button.findBy(exact text \"Продолжить\")\") should be(visible)",
+      "time" : {
+        "start" : 1701377194861,
+        "stop" : 1701377194945,
+        "duration" : 84
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\".notification_status_ok \") should be(hidden)",
+      "time" : {
+        "start" : 1701377194945,
+        "stop" : 1701377194973,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\".notification_status_error \") should be(hidden)",
+      "time" : {
+        "start" : 1701377194973,
+        "stop" : 1701377194995,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: Номер карты/By.xpath: ../.input__control\") set value(2928 2032 5922 8275 3)",
+      "time" : {
+        "start" : 1701377194995,
+        "stop" : 1701377195318,
+        "duration" : 323
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: Месяц/By.xpath: ../.input__control\") set value(12)",
+      "time" : {
+        "start" : 1701377195318,
+        "stop" : 1701377195600,
+        "duration" : 282
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: Год/By.xpath: ../.input__control\") set value(24)",
+      "time" : {
+        "start" : 1701377195600,
+        "stop" : 1701377195911,
+        "duration" : 311
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: Владелец/By.xpath: ../.input__control\") set value(YOULANDA PRICE)",
+      "time" : {
+        "start" : 1701377195911,
+        "stop" : 1701377196241,
+        "duration" : 330
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"by text: CVC/CVV/By.xpath: ../.input__control\") set value(718)",
+      "time" : {
+        "start" : 1701377196241,
+        "stop" : 1701377196544,
+        "duration" : 303
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"button.findBy(exact text \"Продолжить\")\") click()",
+      "time" : {
+        "start" : 1701377196544,
+        "stop" : 1701377196721,
+        "duration" : 177
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\".notification_status_error \") should([visible, 15 s.])",
+      "time" : {
+        "start" : 1701377196721,
+        "stop" : 1701377205232,
+        "duration" : 8511
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\".notification_status_error /[class=notification__title]\") should(text \"Ошибка\")",
+      "time" : {
+        "start" : 1701377205232,
+        "stop" : 1701377205276,
+        "duration" : 44
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\".notification_status_error /[class=notification__content]\") should(text \"Ошибка! Банк отказал в проведении операции.\")",
+      "time" : {
+        "start" : 1701377205276,
+        "stop" : 1701377205340,
+        "duration" : 64
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\".notification_status_error /button\") click()",
+      "time" : {
+        "start" : 1701377205340,
+        "stop" : 1701377205455,
+        "duration" : 115
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "$(\".notification_status_error \") should(hidden)",
+      "time" : {
+        "start" : 1701377205455,
+        "stop" : 1701377205546,
+        "duration" : 91
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 28,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:ru.netology.tests.PaymentUITests]/[method:shouldNumberField17char()]"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GKORDA5"
+  }, {
+    "name" : "thread",
+    "value" : "6176@DESKTOP-GKORDA5.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.netology.tests.PaymentUITests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.netology.tests.PaymentUITests"
+  }, {
+    "name" : "testMethod",
+    "value" : "shouldNumberField17char"
+  }, {
+    "name" : "suite",
+    "value" : "ru.netology.tests.PaymentUITests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8350109b793a680.json",
+  "parameterValues" : [ ]
+}

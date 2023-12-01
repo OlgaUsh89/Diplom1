@@ -1,0 +1,331 @@
+[ {
+  "uid" : "c5fa56012d5bf0e5",
+  "name" : "shouldPOSTCvcEmpty()",
+  "time" : {
+    "start" : 1701377098458,
+    "stop" : 1701377098764,
+    "duration" : 306
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6342a2b5a3c1fa8b",
+  "name" : "shouldHolderFieldWithDashFirst()",
+  "time" : {
+    "start" : 1701377127475,
+    "stop" : 1701377133997,
+    "duration" : 6522
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d35127168e66cc98",
+  "name" : "shouldCreditPOSTCvcEmpty()",
+  "time" : {
+    "start" : 1701377051319,
+    "stop" : 1701377051615,
+    "duration" : 296
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "34b5f04d2c64f261",
+  "name" : "shouldNumberFieldEmpty()",
+  "time" : {
+    "start" : 1701377107996,
+    "stop" : 1701377114594,
+    "duration" : 6598
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee2a9e011e86b843",
+  "name" : "shouldNumberField16char()",
+  "time" : {
+    "start" : 1701377181443,
+    "stop" : 1701377193741,
+    "duration" : 12298
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "186fa94bf8508282",
+  "name" : "shouldPOSTHolderEmpty()",
+  "time" : {
+    "start" : 1701377099917,
+    "stop" : 1701377100203,
+    "duration" : 286
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d107e1df5287636",
+  "name" : "shouldValidTestCreditCardDeclinedEntityAdded()",
+  "time" : {
+    "start" : 1701377050453,
+    "stop" : 1701377051310,
+    "duration" : 857
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3a030de07069341",
+  "name" : "shouldPOSTMonthEmpty()",
+  "time" : {
+    "start" : 1701377097262,
+    "stop" : 1701377097566,
+    "duration" : 304
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad5b96c72ee01acd",
+  "name" : "shouldHolderFieldNumbers()",
+  "time" : {
+    "start" : 1701377157974,
+    "stop" : 1701377164584,
+    "duration" : 6610
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b47601198dfd6e5",
+  "name" : "shouldValidTestCardApprovedEntityAdded()",
+  "time" : {
+    "start" : 1701377100537,
+    "stop" : 1701377101406,
+    "duration" : 869
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6847c23e045f0789",
+  "name" : "shouldNumberField15char()",
+  "time" : {
+    "start" : 1701377178035,
+    "stop" : 1701377181435,
+    "duration" : 3400
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48989480e4974fcd",
+  "name" : "shouldMonthField1char()",
+  "time" : {
+    "start" : 1701377134008,
+    "stop" : 1701377151409,
+    "duration" : 17401
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "65c29dc8c456980c",
+  "name" : "shouldValidTestCreditCardApprovedEntityAdded()",
+  "time" : {
+    "start" : 1701377042048,
+    "stop" : 1701377046999,
+    "duration" : 4951
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a402083972c913a",
+  "name" : "shouldHolderFieldWithDashEnd()",
+  "time" : {
+    "start" : 1701377164596,
+    "stop" : 1701377171180,
+    "duration" : 6584
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "24ae69665611a602",
+  "name" : "shouldAllFieldsEmpty()",
+  "time" : {
+    "start" : 1701377119177,
+    "stop" : 1701377125390,
+    "duration" : 6213
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "495c55c9a65df0f",
+  "name" : "shouldValidCreditTestCardDeclined()",
+  "time" : {
+    "start" : 1701377051967,
+    "stop" : 1701377089731,
+    "duration" : 37764
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6fdfd47376826e2",
+  "name" : "shouldCreditPOSTNumberEmpty()",
+  "time" : {
+    "start" : 1701377047758,
+    "stop" : 1701377048974,
+    "duration" : 1216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a51dd72f34961edf",
+  "name" : "shouldValidTestCardDeclinedEntityAdded()",
+  "time" : {
+    "start" : 1701377097572,
+    "stop" : 1701377098450,
+    "duration" : 878
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f280623ec902877",
+  "name" : "shouldHolderFieldWithSpaceEnd()",
+  "time" : {
+    "start" : 1701377101423,
+    "stop" : 1701377107980,
+    "duration" : 6557
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1dc513656f5a71e",
+  "name" : "shouldMonthFieldMore12()",
+  "time" : {
+    "start" : 1701377125400,
+    "stop" : 1701377127466,
+    "duration" : 2066
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a334c21e3b341810",
+  "name" : "shouldValidCreditTestCardApproved()",
+  "time" : {
+    "start" : 1701377089752,
+    "stop" : 1701377095633,
+    "duration" : 5881
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "51b50f6ecea33d42",
+  "name" : "shouldPOSTNumberEmpty()",
+  "time" : {
+    "start" : 1701377098777,
+    "stop" : 1701377099910,
+    "duration" : 1133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c9afcfda3fbd7d3",
+  "name" : "shouldNumberFieldSymbols()",
+  "time" : {
+    "start" : 1701377114603,
+    "stop" : 1701377116823,
+    "duration" : 2220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6f850bd914e9e98",
+  "name" : "shouldCreditPOSTHolderEmpty()",
+  "time" : {
+    "start" : 1701377048987,
+    "stop" : 1701377049283,
+    "duration" : 296
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f74ceb6b7f05cec",
+  "name" : "shouldHolderFieldSymbols()",
+  "time" : {
+    "start" : 1701377171191,
+    "stop" : 1701377178017,
+    "duration" : 6826
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6d5e662fe83f02f",
+  "name" : "shouldPOSTYearEmpty()",
+  "time" : {
+    "start" : 1701377100218,
+    "stop" : 1701377100525,
+    "duration" : 307
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "771dfec4fe088c93",
+  "name" : "shouldPOSTBodyEmpty()",
+  "time" : {
+    "start" : 1701377096105,
+    "stop" : 1701377097249,
+    "duration" : 1144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26775295ae8271fc",
+  "name" : "shouldMonthFieldEmpty()",
+  "time" : {
+    "start" : 1701377151421,
+    "stop" : 1701377157961,
+    "duration" : 6540
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8350109b793a680",
+  "name" : "shouldNumberField17char()",
+  "time" : {
+    "start" : 1701377193752,
+    "stop" : 1701377205546,
+    "duration" : 11794
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ee4a3ecd35914d0",
+  "name" : "shouldCreditPOSTMonthEmpty()",
+  "time" : {
+    "start" : 1701377047300,
+    "stop" : 1701377047739,
+    "duration" : 439
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a17d4fed706db0c9",
+  "name" : "shouldCreditPOSTYearEmpty()",
+  "time" : {
+    "start" : 1701377051623,
+    "stop" : 1701377051911,
+    "duration" : 288
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "efd14d9f02e9c068",
+  "name" : "shouldYearFieldSymbols()",
+  "time" : {
+    "start" : 1701377116839,
+    "stop" : 1701377119168,
+    "duration" : 2329
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42eab4dbe6724fa2",
+  "name" : "shouldCreditPOSTBodyEmpty()",
+  "time" : {
+    "start" : 1701377049292,
+    "stop" : 1701377050445,
+    "duration" : 1153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

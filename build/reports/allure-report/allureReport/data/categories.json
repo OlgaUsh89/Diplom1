@@ -1,0 +1,452 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected: <1> but was: <0>",
+      "children" : [ {
+        "name" : "shouldValidTestCreditCardApprovedEntityAdded()",
+        "uid" : "65c29dc8c456980c",
+        "parentUid" : "e5efa497b79d077e06c0dfd9b7bc1428",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377042048,
+          "stop" : 1701377046999,
+          "duration" : 4951
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldValidTestCreditCardDeclinedEntityAdded()",
+        "uid" : "1d107e1df5287636",
+        "parentUid" : "e5efa497b79d077e06c0dfd9b7bc1428",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377050453,
+          "stop" : 1701377051310,
+          "duration" : 857
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldValidTestCardDeclinedEntityAdded()",
+        "uid" : "a51dd72f34961edf",
+        "parentUid" : "e5efa497b79d077e06c0dfd9b7bc1428",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377097572,
+          "stop" : 1701377098450,
+          "duration" : 878
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldValidTestCardApprovedEntityAdded()",
+        "uid" : "4b47601198dfd6e5",
+        "parentUid" : "e5efa497b79d077e06c0dfd9b7bc1428",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377100537,
+          "stop" : 1701377101406,
+          "duration" : 869
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e5efa497b79d077e06c0dfd9b7bc1428"
+    }, {
+      "name" : "1 expectation failed.\nExpected status code <400> but was <200>.\n",
+      "children" : [ {
+        "name" : "shouldCreditPOSTMonthEmpty()",
+        "uid" : "9ee4a3ecd35914d0",
+        "parentUid" : "3939f6cbbc4fe99ffe07188676b4bed3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377047300,
+          "stop" : 1701377047739,
+          "duration" : 439
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldCreditPOSTHolderEmpty()",
+        "uid" : "c6f850bd914e9e98",
+        "parentUid" : "3939f6cbbc4fe99ffe07188676b4bed3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377048987,
+          "stop" : 1701377049283,
+          "duration" : 296
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldCreditPOSTCvcEmpty()",
+        "uid" : "d35127168e66cc98",
+        "parentUid" : "3939f6cbbc4fe99ffe07188676b4bed3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377051319,
+          "stop" : 1701377051615,
+          "duration" : 296
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldCreditPOSTYearEmpty()",
+        "uid" : "a17d4fed706db0c9",
+        "parentUid" : "3939f6cbbc4fe99ffe07188676b4bed3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377051623,
+          "stop" : 1701377051911,
+          "duration" : 288
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldPOSTMonthEmpty()",
+        "uid" : "c3a030de07069341",
+        "parentUid" : "3939f6cbbc4fe99ffe07188676b4bed3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377097262,
+          "stop" : 1701377097566,
+          "duration" : 304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldPOSTCvcEmpty()",
+        "uid" : "c5fa56012d5bf0e5",
+        "parentUid" : "3939f6cbbc4fe99ffe07188676b4bed3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377098458,
+          "stop" : 1701377098764,
+          "duration" : 306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldPOSTHolderEmpty()",
+        "uid" : "186fa94bf8508282",
+        "parentUid" : "3939f6cbbc4fe99ffe07188676b4bed3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377099917,
+          "stop" : 1701377100203,
+          "duration" : 286
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shouldPOSTYearEmpty()",
+        "uid" : "a6d5e662fe83f02f",
+        "parentUid" : "3939f6cbbc4fe99ffe07188676b4bed3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377100218,
+          "stop" : 1701377100525,
+          "duration" : 307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3939f6cbbc4fe99ffe07188676b4bed3"
+    }, {
+      "name" : "Element should visible {.notification_status_error}\r\nElement: '<div class=\"notification notification_status_error notification_has-closer notification_stick-to_right notification_theme_alfa-on-white\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377089261.0.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377089261.0.html\r\nTimeout: 15 s.",
+      "children" : [ {
+        "name" : "shouldValidCreditTestCardDeclined()",
+        "uid" : "495c55c9a65df0f",
+        "parentUid" : "8eb595e072f832f962b56e8248942c02",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377051967,
+          "stop" : 1701377089731,
+          "duration" : 37764
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8eb595e072f832f962b56e8248942c02"
+    }, {
+      "name" : "expected: <APPROVED> but was: <DECLINED>",
+      "children" : [ {
+        "name" : "shouldValidCreditTestCardApproved()",
+        "uid" : "a334c21e3b341810",
+        "parentUid" : "3dec1e71ab7731eaddd73f2e80a5d9f7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377089752,
+          "stop" : 1701377095633,
+          "duration" : 5881
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3dec1e71ab7731eaddd73f2e80a5d9f7"
+    }, {
+      "name" : "Element not found {.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377107530.1.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377107530.1.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "shouldHolderFieldWithSpaceEnd()",
+        "uid" : "1f280623ec902877",
+        "parentUid" : "938637f0d9c193de3c3eba5667e8bee0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377101423,
+          "stop" : 1701377107980,
+          "duration" : 6557
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "938637f0d9c193de3c3eba5667e8bee0"
+    }, {
+      "name" : "Element should have text \"Поле обязательно для заполнения\" {.input__sub}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: text=\"Неверный формат\"\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377114270.2.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377114270.2.html\r\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "shouldNumberFieldEmpty()",
+        "uid" : "34b5f04d2c64f261",
+        "parentUid" : "4e565cdaef4371d90da26dd0919528c8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377107996,
+          "stop" : 1701377114594,
+          "duration" : 6598
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4e565cdaef4371d90da26dd0919528c8"
+    }, {
+      "name" : "Element should have text \"Поле обязательно для заполнения\" {by text: Номер карты/By.xpath: ../.input__sub}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: text=\"Неверный формат\"\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377125015.3.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377125015.3.html\r\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "shouldAllFieldsEmpty()",
+        "uid" : "24ae69665611a602",
+        "parentUid" : "7a616b63b1505fc0cb5efe184563e85f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377119177,
+          "stop" : 1701377125390,
+          "duration" : 6213
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a616b63b1505fc0cb5efe184563e85f"
+    }, {
+      "name" : "Element not found {.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377133654.4.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377133654.4.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "shouldHolderFieldWithDashFirst()",
+        "uid" : "6342a2b5a3c1fa8b",
+        "parentUid" : "581a7d6975c00fa1497e2e4920951bb1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377127475,
+          "stop" : 1701377133997,
+          "duration" : 6522
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "581a7d6975c00fa1497e2e4920951bb1"
+    }, {
+      "name" : "Element should visible {.notification_status_ok }\r\nElement: '<div class=\"notification notification_status_ok notification_has-closer notification_stick-to_right notification_theme_alfa-on-white\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377151098.5.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377151098.5.html\r\nTimeout: 15 s.",
+      "children" : [ {
+        "name" : "shouldMonthField1char()",
+        "uid" : "48989480e4974fcd",
+        "parentUid" : "43316f61629166f88673f6752b916b3e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377134008,
+          "stop" : 1701377151409,
+          "duration" : 17401
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "43316f61629166f88673f6752b916b3e"
+    }, {
+      "name" : "Element should have text \"Поле обязательно для заполнения\" {.input__sub}\r\nElement: '<span class=\"input__sub\">Неверный формат</span>'\r\nActual value: text=\"Неверный формат\"\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377157573.6.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377157573.6.html\r\nTimeout: 4 s.",
+      "children" : [ {
+        "name" : "shouldMonthFieldEmpty()",
+        "uid" : "26775295ae8271fc",
+        "parentUid" : "8616b86634a816d748ffb527ffdcf73a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377151421,
+          "stop" : 1701377157961,
+          "duration" : 6540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8616b86634a816d748ffb527ffdcf73a"
+    }, {
+      "name" : "Element not found {.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377164152.7.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377164152.7.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "shouldHolderFieldNumbers()",
+        "uid" : "ad5b96c72ee01acd",
+        "parentUid" : "f5a42a05e1a09789ad82d666a60b9669",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377157974,
+          "stop" : 1701377164584,
+          "duration" : 6610
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f5a42a05e1a09789ad82d666a60b9669"
+    }, {
+      "name" : "Element not found {.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377170814.8.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377170814.8.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "shouldHolderFieldWithDashEnd()",
+        "uid" : "8a402083972c913a",
+        "parentUid" : "7675e1e0e72268167bd02edd965db8a0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377164596,
+          "stop" : 1701377171180,
+          "duration" : 6584
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7675e1e0e72268167bd02edd965db8a0"
+    }, {
+      "name" : "Element not found {.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377177553.9.png\r\nPage source: file:/C:/Users/Admin/Dipl/build/reports/tests/1701377177553.9.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "shouldHolderFieldSymbols()",
+        "uid" : "3f74ceb6b7f05cec",
+        "parentUid" : "9556c62e624ab294d6c9cf40c5d7a328",
+        "status" : "failed",
+        "time" : {
+          "start" : 1701377171191,
+          "stop" : 1701377178017,
+          "duration" : 6826
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9556c62e624ab294d6c9cf40c5d7a328"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
