@@ -1,0 +1,1 @@
+{"uuid":"03ddc63d-cae9-48c8-8327-1b1b457172a9","name":"shouldValidTestCreditCardApprovedEntityAdded()","children":["0218480f-d5ee-469b-8fb2-64e8c9034645"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1701809000272,"stop":1701809000495}],"start":1701808994297,"stop":1701809000923}

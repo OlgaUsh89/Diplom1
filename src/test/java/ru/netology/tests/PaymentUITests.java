@@ -127,7 +127,7 @@ public class PaymentUITests {
         var CardInfo = DataHelper.getMonth1char();
         PaymentPage paymentPage = mainPage.paymentButtonClick();
         paymentPage.inputData(CardInfo);
-        paymentPage.getSuccessNotification();
+        paymentPage.getInputInvalid("Неверный формат");
     }
 
     @Test
