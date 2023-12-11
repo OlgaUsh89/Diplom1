@@ -44,4 +44,8 @@ test {
     useJUnitPlatform()
     systemProperty 'selenide.headless', System.getProperty('selenide.headless')
     systemProperty 'dbUrl', System.getProperty('dbUrl')
+    systemProperty 'dbUser', System.getProperty('dbUser', "app")
+    systemProperty 'dbPassword', System.getProperty('dbPassword', "pass")
+    systemProperty 'sutUrl', System.getProperty('sutUrl', "http://localhost:8080")
+
 }

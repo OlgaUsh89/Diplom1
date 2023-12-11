@@ -40,8 +40,7 @@ public class DBHelper {
 
     @SneakyThrows
     public static Connection getConn() {
-        return DriverManager.getConnection("jdbc:postgresql://185.119.57.64:5432/app", "app",
-                "pass");
+        return DriverManager.getConnection(System.getProperty("dbUrl"), "app", "pass");
 
     }
 
