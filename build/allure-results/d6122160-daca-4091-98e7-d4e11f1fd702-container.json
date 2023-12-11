@@ -1,1 +1,0 @@
-{"uuid":"d6122160-daca-4091-98e7-d4e11f1fd702","name":"shouldValidTestCardApprovedEntityAdded()","children":["058c8bc0-4c60-4d6e-ab63-f611268a1986"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1701377101178,"stop":1701377101405}],"start":1701377100534,"stop":1701377101408}
